@@ -1,4 +1,4 @@
-# Project Title
+# Project of SQL Database files
 
 The content of SQL files are course of SQL Database for Business Analytics, Practice and Exams.
 

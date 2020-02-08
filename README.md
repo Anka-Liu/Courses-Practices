@@ -1,2 +1,2 @@
-# Projects
-Various Projects of Data Science
+# Personal Projects 
+This folder contains various personal projects of Data Science.
