@@ -1,4 +1,4 @@
-# Personal Projects 
+# Data Science Projects 
 
 This folder contains various personal projects of Data Science from graduate courses and personal practice.
 
