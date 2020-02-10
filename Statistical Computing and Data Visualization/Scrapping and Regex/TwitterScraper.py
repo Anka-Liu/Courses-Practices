@@ -28,10 +28,10 @@ import re # regular expressions
 # import twittercredentials
 
 # Variables that contain the user credentials to access twitter API
-ACCESS_TOKEN = "16893876-PtGLo3MiPcON3p5BgFZi4i5ZGM9NSzHBnBjQBxlTw"
-ACCESS_TOKEN_SECRET = "1STlqKHHQtrulB0DdU87ylaeMBxGd2wo7dwXrvQdHKZwF"
-CONSUMER_KEY = "dBSUjL8qzGuOm6Typ6OgGKW6G"
-CONSUMER_SECRET = "WiJB3quC14DpYexZhYKRFMaO90l8NdBlk9EAY5eZfNStbfuT4r"
+ACCESS_TOKEN = None
+ACCESS_TOKEN_SECRET = None
+CONSUMER_KEY = None
+CONSUMER_SECRET = None
 
 
 
