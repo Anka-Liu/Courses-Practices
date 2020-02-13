@@ -15,3 +15,7 @@ Acknowledgement to Prof. Abbass Sharif, USC.
 3. NoSQL
 Containing practices and concepts of MongoDB, using remote server and pymongo library.     
 Acknowledgement to Prof. Arsames Qajar, USC.
+
+4. Applied Statistical Learning
+Containing practices and concepts of Statistical Learning using Python, covering machine learning algorithms and statistical concepts.     
+Acknowledgement to Prof. Xin Tong, USC.
