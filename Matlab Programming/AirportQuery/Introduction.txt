@@ -1,0 +1,29 @@
+Final Project---Introduction to Airport Query System
+
+Liu Chengjun, Student ID: 0490303961
+
+The Airport Query System is built up based on the tab cobtrols. 
+The built-in controls offered by Matlab do not contain tabs, so we introduce TabManager designed by Grant.
+The information website in MathWorks Community is https://ww2.mathworks.cn/matlabcentral/fileexchange/54705-tabmanager-create-tab-panels--uitabgroup--from-a-guide-gui
+I pack the original TabManager file into the zip.
+
+When starting the program, there is a Loading GUI shown before the main program is initialized, with large font "Loading...".
+The functions are distributed among four tabs:
+1.Introduction page contains brief introduction and a button. 
+  The toggle button is intended to show continuous colormap change of a globe model and close the showoff.
+  The color-changing globe is shown in place of airport image in center of the page.
+2.Overview page contains the world map.
+  By clicking on different regions on the world map, the world map is able to show the positions of all airports in corresponding region in red points.
+  The name of corresponding Region is shown below world map.
+  The regions: Antartica, South America, North America, Europe, Africa & Middle East, Asia, Oceania
+3.Searching page offers functions of searching for specified airports.
+  The upper three pop-up menus and a button offers function of searching airports by country, city and airport name.
+  The lower three sliders and a button offers function of searching airports by longitude, latitude and altitude.
+  The result is shown in the right globe model.
+  The texts above buttons remind the process of program("Loading...","Ready.","Done.")
+4.Route Tracking page offers function of drawing a route from departure to destination.
+  The upper three pop-up menus are to select departure, and the lower three are to select destination.
+  The result is shown in the right globe model.
+  The texts above buttons remind the process of program("Loading...","Ready.","Done.")
+  The route will be automatically shown under the state of rotation.
+  The stopping toggle button is to stop and restart rotation.
