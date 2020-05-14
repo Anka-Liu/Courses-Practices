@@ -1,0 +1,1 @@
+The data is the daily stock data of 50 companies, which are constituents of the SSE 50 index.
